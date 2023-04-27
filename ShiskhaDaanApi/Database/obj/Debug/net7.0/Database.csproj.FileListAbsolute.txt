@@ -1,0 +1,17 @@
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\Database.csproj.AssemblyReference.cache
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\Database.AssemblyInfoInputs.cache
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\Database.AssemblyInfo.cs
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\bin\Debug\net7.0\Database.deps.json
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\bin\Debug\net7.0\Database.runtimeconfig.json
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\bin\Debug\net7.0\Database.dll
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\bin\Debug\net7.0\Database.pdb
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\bin\Debug\net7.0\Entity.dll
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\bin\Debug\net7.0\Entity.pdb
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\Database.csproj.CopyComplete
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\Database.dll
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\refint\Database.dll
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\Database.pdb
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\Database.genruntimeconfig.cache
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Database\obj\Debug\net7.0\ref\Database.dll
