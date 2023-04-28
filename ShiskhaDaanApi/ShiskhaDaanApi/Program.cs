@@ -13,9 +13,13 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<ApplicationContext>(opt =>
 
-  opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+// MySQL Connection
+var conn = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<ApplicationContext>(options =>
+ options.UseMySql(conn,
+ ServerVersion.AutoDetect(conn))
+);
 
 // Auto Mapper Configurations
 var mapperConfig = new MapperConfiguration(mc =>
