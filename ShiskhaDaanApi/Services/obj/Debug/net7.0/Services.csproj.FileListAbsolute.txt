@@ -10,3 +10,10 @@ C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\S
 C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Services\obj\Debug\net7.0\refint\Services.dll
 C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Services\obj\Debug\net7.0\Services.pdb
 C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Services\bin\Debug\net7.0\Data.dll
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Services\bin\Debug\net7.0\Database.dll
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Services\bin\Debug\net7.0\Entity.dll
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Services\bin\Debug\net7.0\Data.pdb
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Services\bin\Debug\net7.0\Database.pdb
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Services\bin\Debug\net7.0\Entity.pdb
+C:\Users\aman.ojha.NEWVISIONSOFTPU\source\repos\ShikshaDaan-API\ShiskhaDaanApi\Services\obj\Debug\net7.0\Services.csproj.CopyComplete

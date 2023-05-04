@@ -11,5 +11,6 @@ namespace Database
         }
         
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<SetupAccount> SuperAdmins { get; set; }
     }
 }

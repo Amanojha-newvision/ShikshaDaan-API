@@ -1,7 +1,11 @@
 using AutoMapper;
+using Data.Interfaces;
+using Data.Repository;
 using Database;
 using DTO.Mappers;
 using Microsoft.EntityFrameworkCore;
+using Services.Interfaces;
+using Services.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +17,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddTransient<ISetupAccountRepository, SetupAccountRepository>();
+builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 
 // MySQL Connection
 var conn = builder.Configuration.GetConnectionString("DefaultConnection");
